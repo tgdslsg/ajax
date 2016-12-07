@@ -1,0 +1,5 @@
+com\lsg\web\AjaxServlet.class
+com\lsg\utils\HttpUtil.class
+com\lsg\web\Test2.class
+com\lsg\web\RssServlet.class
+com\lsg\web\Test.class
